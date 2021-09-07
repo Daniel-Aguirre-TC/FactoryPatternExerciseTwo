@@ -1,0 +1,13 @@
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\bin\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.exe
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\bin\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.deps.json
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\bin\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.runtimeconfig.json
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\bin\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.runtimeconfig.dev.json
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\bin\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.dll
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\bin\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.pdb
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\obj\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\obj\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.AssemblyInfoInputs.cache
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\obj\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.AssemblyInfo.cs
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\obj\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\obj\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.dll
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\obj\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.pdb
+C:\Users\Second-Desktop\repos\FactoryDesignExerciseTwo\FactoryDesignExerciseTwo\obj\Debug\netcoreapp3.1\FactoryDesignExerciseTwo.genruntimeconfig.cache
